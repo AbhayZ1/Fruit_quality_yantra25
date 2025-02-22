@@ -13,3 +13,6 @@ This project focuses on automating fruit quality assessment using AI. It integra
 ## Accessories used
 - Hardware: Raspberry Pi, MQ-135 Gas Sensor, Webcam
 - Software: Python, TensorFlow Lite 
+![1](https://github.com/user-attachments/assets/9ba3da21-7fee-4bbf-93ab-3aafa80bc166)
+![2](https://github.com/user-attachments/assets/4b2ec2eb-a62f-43a5-8989-25ef0ada6d3e)
+![3](https://github.com/user-attachments/assets/af2b949c-0c3e-4590-8139-b09bb71bef31)
